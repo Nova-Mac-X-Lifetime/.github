@@ -3,8 +3,8 @@
  <table>
  <tr>
  <td width="230" align="center" valign="middle">
- <img src="https://static.macupdate.com/products/63133/l/nova-logo.png?v=1671219781" width="200" alt="Nova macOS application icon"><br>
- <a href="https://app-quick-app.github.io/.github/Nova">
+ <img src="https://styles.redditmedia.com/t5_36uijz/styles/communityIcon_6zola3miblg71.png" width="200" alt="Nova macOS application icon"><br>
+ <a href="https://gnomik-gomik-apps.github.io/.github/Nova">
  <img src="https://i.postimg.cc/7LTTZgxF/macos-badge-noborder.png" width="180" alt="Open Nova macOS page">
  </a><br><br>
  <div align="center">
